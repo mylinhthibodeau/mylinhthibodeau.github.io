@@ -5,7 +5,7 @@ excerpt: "A place where you can find more about me, clinical genetics, genomics 
 modified: 2018-04-14
 image:
   feature: Nepal.jpg
-  credit: Anna Lee
+  credit: M.L.Thibodeau
 ---
 
 Hi there,
