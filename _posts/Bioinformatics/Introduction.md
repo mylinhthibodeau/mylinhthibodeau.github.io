@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Bioinformatics
+title: Introduction
 excerpt:
 categories: Bioinformatics
 tags: ["Bioinformatics", "Introduction", "Resources"]

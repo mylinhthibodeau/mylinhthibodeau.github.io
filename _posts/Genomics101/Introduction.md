@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Genomics 101
+title: Introduction
 excerpt:
 categories: Genomics101
 tags: ["Genomics", "Introduction", "Resources"]
