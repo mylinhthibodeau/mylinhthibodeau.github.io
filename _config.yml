@@ -1,1 +1,86 @@
-theme: jekyll-theme-cayman
+# Site wide configuration
+
+title: Genomics101
+locale: en_US
+description: "Clinical Genomics | Clinical Bioinformatics | Bioinformatics "
+logo: #
+search: true
+url: https://mylinhthibodeau.github.io/
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+comments: true
+share: true
+
+# Site owner
+owner:
+  name:
+  avatar: MyLinhThibodeau.jpg
+  email: mylinh.thibodeau@gmail.com
+  disqus-shortname: mylinhthibodeau
+  twitter: #
+  facebook: #
+  github: mylinhthibodeau
+  stackexchange: #
+  linkedin: My Linh Thibodeau
+  instagram: #
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: mylinh.thibodeau
+    analytics: #
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+
+
+# slider commands
+startslide: "<section data-markdown><script type='text/template'>"
+nextslide: "</script></section><section data-markdown><script type='text/template'>"
+endslide: "</script></section>"
+
+startvertical: "<section>"
+endvertical: "</section>"
+
+nextvertical: "</script></section></section><section><section data-markdown><script type='text/template'>"

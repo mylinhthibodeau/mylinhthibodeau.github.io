@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: About
+  url: about/
+
+- title: Genomics101
+  url: Genomics101/
+
+- title: Clinical Bioinformatics
+  url: ClinicalBioinformatics/
+
+- title: Bioinformatics
+  url: Bioinformatics/
+
+- title: Talks
+  url: talks/
+
+- title: Personal
+  url: personal/
+
+- title: Tags
+  url: tags/
+
+- title: Search
+  url: search/
