@@ -3,20 +3,23 @@
 - title: About
   url: about/
 
-- title: Reading
-  url: reading/
+- title: Genomics101
+  url: Genomics101/
+  sublinks:
+    - title: Genomic Databases
+      url: GenomicDatabases/
 
-- title: Blog
-  url: blog/
+- title: Clinical Bioinformatics
+  url: ClinicalBioinformatics/
+
+- title: Bioinformatics
+  url: Bioinformatics/
 
 - title: Talks
   url: talks/
 
 - title: Personal
   url: personal/
-
-- title: Language
-  url: language/
 
 - title: Tags
   url: tags/
