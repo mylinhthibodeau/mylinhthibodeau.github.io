@@ -9,6 +9,8 @@ comments: true
 share: true
 ---
 
+# Essentials of web resources
+
 ## Essentials - Databases
 
 ### Genomic Annotations
