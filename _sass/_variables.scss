@@ -21,11 +21,12 @@ body {
 // COLORS =====================================================
 $japan-red          : #97310e;
 $blue-dark          : #0A2736;
+$turquoise          : #4d909c;
 $body-color         : #fff;
 $text-color         : #222;
-$base-color         : $blue-dark;
+$base-color         : $turquoise ;
 $comp-color         : spin($base-color, 180);
-$border-color       : $japan-red;
+$border-color       : $turquoise ;
 $white              : #fff;
 $black              : #000;
 $accent-color       : $black;
