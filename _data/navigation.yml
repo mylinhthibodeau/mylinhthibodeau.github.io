@@ -1,29 +1,28 @@
 # Site navigation links
 
-docs:
-  - title: About
-    url: about/
+- title: About
+  url: about/
 
-  - title: Genomics101
-    url: Genomics101/
-    sublinks:
-      - title: "Genomic Databases"
-        url: GenomicDatabases/
+- title: Genomics101
+  url: Genomics101/
+  sublinks:
+    - title: "Genomic Databases"
+      url: GenomicDatabases/
 
-  - title: Clinical Bioinformatics
-    url: ClinicalBioinformatics/
+- title: Clinical Bioinformatics
+  url: ClinicalBioinformatics/
 
-  - title: Bioinformatics
-    url: Bioinformatics/
+- title: Bioinformatics
+  url: Bioinformatics/
 
-  - title: Talks
-    url: talks/
+- title: Talks
+  url: talks/
 
-  - title: Personal
-    url: personal/
+- title: Personal
+  url: personal/
 
-  - title: Tags
-    url: tags/
+- title: Tags
+  url: tags/
 
   - title: Search
     url: search/
