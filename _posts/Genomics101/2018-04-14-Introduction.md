@@ -9,4 +9,4 @@ comments: true
 share: true
 ---
 
-Introduction to Genomics 101 !
+Genomics 101 for beginners !

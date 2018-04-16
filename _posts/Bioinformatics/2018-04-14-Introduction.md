@@ -9,4 +9,4 @@ comments: true
 share: true
 ---
 
-Introduction to Bioinformatics !
+Bioinformatics for beginners !

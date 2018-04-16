@@ -9,4 +9,4 @@ comments: true
 share: true
 ---
 
-Introduction to Clinical Bioinformatics !
+Clinical Bioinformatics for beginners !
