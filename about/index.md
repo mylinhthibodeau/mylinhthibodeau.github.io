@@ -4,7 +4,7 @@ title: Welcome to My Website!
 excerpt: "A place where you can find more about me, clinical genetics, genomics and bioinformatics"
 modified: 2018-04-14
 image:
-  feature: Nepal.jpg
+  feature: IrishBeach.jpg
   credit: M.L.Thibodeau
 ---
 
