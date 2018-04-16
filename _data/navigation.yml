@@ -6,8 +6,9 @@ docs:
 
   - title: Genomics101
     url: Genomics101/
-    children:
+    sublinks:
       - title: "Genomic Databases"
+        url: GenomicDatabases
 
   - title: Clinical Bioinformatics
     url: ClinicalBioinformatics/
@@ -26,8 +27,3 @@ docs:
 
   - title: Search
     url: search/
-
-defaults:
-    values:
-      sidebar:
-        nav: "docs"
