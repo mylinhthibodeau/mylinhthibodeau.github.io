@@ -47,7 +47,7 @@ Small variants (single nucleotide variants/indels) effect prediction based on th
 
 * [dbSNP](https://www.ncbi.nlm.nih.gov/SNP/)
 * [ExAc](http://exac.broadinstitute.org/) (Exome Aggregation Consortium) and [gnomAD](http://gnomad.broadinstitute.org/) (Genome Aggregation Database)
-  - Note. Contains data from the [1000 Genome Project](http://www.internationalgenome.org/) and [The Cancer Genome Atlas](https://tcga-data.nci.nih.gov/docs/publications/tcga/) germline blood samples.
+  - Note. Contains data from the [1000 Genome Project](http://www.internationalgenome.org/) and [The Cancer Genome Atlas](https://tcga-data.nci.nih.gov/docs/publications/tcga/) germline blood samples. If you are working with Hereditary Cancer Predisposition data, perhaps you should download the ExAc "[TCGA-free VCF](ftp://ftp.broadinstitute.org/pub/ExAC_release/release1/subsets/)" dataset.
 
 #### Disease/variants Databases
 
