@@ -9,8 +9,6 @@ comments: true
 share: true
 ---
 
-Clinical Bioinformatics for beginners !
-
 ### Clinical Bioinformatics - An introduction
 
 #### Where to start?
@@ -23,7 +21,9 @@ My name is My Linh Thibodeau, and I am a resident from the Medical Genetics and 
 
 #### Will clinical bioinformatics be useful for me?
 
-Bioinformatics training will be useful for any clinical trainee or clinician working with genomic data. The most important question is: How much bioinformatics do you need to know? The answer heavily depends on your training, career goals and clinical practice. I recommend an overall understanding of bioinformatics to all medical genetics trainees and clinicians, but since computer science is huge scientific field on its own, the challenge is determining what you need to know and in how much details.
+Bioinformatics training would be useful for any clinical trainee or clinician working with genomic data. The most important question is: How much bioinformatics do you need to know? The answer heavily depends on your training, career goals and clinical practice. I recommend an overall understanding of bioinformatics to all medical genetics trainees and clinicians, but since computer science is vast scientific field, the challenge is determining what you need to know and in how much details.
+
+The best way to learn applied bioinformatics skills is with a "data-driven approach". Ideally, you should have some dataset(s) available that you wish you knew how to analyze. Try to think of instances during your training or your career where you thought: If only I knew some bioinformatics, I could do this or that more efficiently. Start a list of tasks you believe bioinformatics would be helpful with.
 
 If you are a clinician performing research in genomics with a leadership role, then acquiring applied coding skills might not be the most appropriate use of your time and instead, you might want to learn more on the basic theoretical concepts underlying big data research, such as:
 
@@ -37,13 +37,14 @@ If you are a clinician performing research in genomics with a leadership role, t
 
 #### What will this post cover?
 
-This blog post is a work in progress. I will be providing an overview of some bioinformatics genomics skills and resoures based on my personal training experience.
+This blog post is a work in progress. I will be providing an overview of some bioinformatics genomics skills and resources based on my personal training experience.
 
-This post will also be followed by "workshop posts" containing some applied/hands-on simple exercises/examples, which will also be made available on my [personal github](https://github.com/mylinhthibodeau/Genomics101-Workshop).
+This post will also be followed by "workshop posts" containing some applied/hands-on simple exercises/examples, which will also be made available on [my personal github](https://github.com/mylinhthibodeau/Genomics101-Workshop).
 
 ### First of all, register your accounts
 
 The very first step on your journey is to be able to retrieve genomic data from the Web. My personal advice would be to register accounts for these resources:
+
 * [UCSC](https://genome.ucsc.edu/cgi-bin/hgSession?hgS_doMainPage=1)
 * [Ensembl](http://uswest.ensembl.org/index.html)
 * Genomic Oligoarray and SNP array evaluation tool v3.0 - [University of Miami CMA tool](http://firefly.ccs.miami.edu/cgi-bin/ROH/ROH_analysis_tool.cgi). This has been a popular tool in clinical practice, but there are other useful tools that perform similar tasks in my opinion (e.g. [NCBI Bulk Conversion](Databases and Web Tools for Cancer Genomics Study) or [Ensembl BioMart](ensembl.org/biomart/martview))
@@ -144,11 +145,11 @@ Here are some examples of useful skills to acquire and the language(s) that woul
 
 ***
 
-#### Perhaps less useful coding skills, except if you have a lot of time available and are an independent learner
+### Perhaps less useful coding skills, except if you have a lot of time available and are an independent learner
 
 This section is meant for the motivated individual who wants to acquire bioinformatics skills independently in a self-learning process.
 
-##### Step 1. Download some datasets (intermediate-to-advanced)
+#### Step 1. Download some datasets (intermediate-to-advanced)
 
 This also only apply to you if are planning to acquire intermediate-to-advanced coding skill. If it is the case, I would advise is to download useful datasets to your computer:
 
@@ -156,7 +157,7 @@ This also only apply to you if are planning to acquire intermediate-to-advanced 
 * Catalogue of Somatic Mutations in Cancer/[COSMIC gene census](https://cancer.sanger.ac.uk/census). You need to have registered an account to download the file to your computer (otherwise, you are stuck with browsing the data on the web). I find that the COSMIC cancer gene census encompass almost all hereditary cancer predisposition genes and therefore, can be useful as a reference list.
 * [Orphadata](http://www.orphadata.org/cgi-bin/index.php/) from Orphanet. This resource could potentially be very useful to a clinician as it contains a lot of phenotypic data, but its use is limited by the difficulty to query the XML format data (e.g. [Phenotypes associated with rare disorders](http://www.orphadata.org/cgi-bin/inc/product4.inc.php)) and the inconsistencies of the tree structure. Using this resource will require a lot of patience, time and hard work, and will most likely require intermediate Python coding skills, so I would classify it as "Advanced".
 
-##### Step 2. Learn the basics
+#### Step 2. Learn the basics
 
 Although less useful in the short run, starting with learning basic computer science skills would teach underlying workings and function of very simple algorithms using if/else/or statements.
 
