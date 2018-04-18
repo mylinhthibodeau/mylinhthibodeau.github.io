@@ -57,7 +57,9 @@ If you are planning to acquire intermediate-to-advanced coding skill, you can al
 
 #### 100% useful clinical bioinformatics skills
 
-Although you might dream of becoming Neo from the Matrix overnight, if you are a clinical trainee with a limited amount of time available, the best avenue is not to learn how to code but instead you should strive to learn how to make the most out of GUI (Graphical User Interface) resources.
+While coding is a powerful tool, it can also have a steep learning curve at the beginning. There are many tools you can use which require no coding at all. So rather than starting from scratch you can benefit from those that have come before and focus on the more pertinent part of that data analysis
+
+If you are a clinical trainee with a limited amount of time available, the best avenue for you is likely to learn how to make the most out of GUI (Graphical User Interface) resources.
 
 Don't be quick to dismiss GUI websites/resources as they are often underused resources and most clinicians (and even researchers) are not using them to their full potential. For example, although most people know how to punch genomic coordinates in the UCSC (University of California Santa Cruz) [Genome Browser](https://genome.ucsc.edu/) or [BLAT](https://genome.ucsc.edu/cgi-bin/hgBlat) a sequence (which is performing targeted alignment), most people do not know how to add custom tracks of genomic coordinates (e.g. BED file format) to visualize contigs (assembled *de novo* or with alignment from sequencing data) or splicing junctions (e.g. transcriptome data). I am providing you with some instructions on how to do this below.
 
