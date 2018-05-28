@@ -5,9 +5,6 @@
 
 - title: Genomics101
   url: Genomics101/
-  sublinks:
-    - title: Genomic Databases
-      url: GenomicDatabases/
 
 - title: Clinical Bioinformatics
   url: ClinicalBioinformatics/
