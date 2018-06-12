@@ -20,6 +20,7 @@ A lot of the material found in this blog is derived from my own personal opinion
 Regards,
 My Linh
 
+### Recent posts 
 
 <ul class="post-list">
 {% for post in site.categories.Genomics101 %}

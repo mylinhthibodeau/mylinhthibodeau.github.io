@@ -42,7 +42,4 @@ Although this represents an oversimplification, Bioinformatics can be broadly di
 * Genomic analysis
   - Data analysis and interpretation
 
-
-<div id="bg">
-  <img src="../images/Bioinformatics_Spectrum.png" alt="">
-</div>  
+![Bioinformatics_Spectrum](https://github.com/mylinhthibodeau/mylinhthibodeau.github.io/blob/master/images/Bioinformatics_Spectrum.png)
