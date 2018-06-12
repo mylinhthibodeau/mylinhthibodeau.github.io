@@ -42,7 +42,7 @@ Although this represents an oversimplification, Bioinformatics can be broadly di
 * Genomic analysis
   - Data analysis and interpretation
 
-![Bioinformatics_Spectrum](/images/Bioinformatics_Spectrum.png)
+![Bioinformatics_Spectrum](mylinhthibodeau.github.io/images/Bioinformatics_Spectrum.png)
 
 People from diverse training background pursue training in bioinformatics, including individuals with background in biological sciences and computer sciences background, and more rarely, from statistical/mathematical background.
 
