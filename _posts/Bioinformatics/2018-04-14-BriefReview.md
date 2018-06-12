@@ -44,5 +44,5 @@ Although this represents an oversimplification, Bioinformatics can be broadly di
 
 
 <div id="bg">
-  <img src="images/Bioinformatics_Spectrum.png" alt="">
+  <img src="../images/Bioinformatics_Spectrum.png" alt="">
 </div>  
