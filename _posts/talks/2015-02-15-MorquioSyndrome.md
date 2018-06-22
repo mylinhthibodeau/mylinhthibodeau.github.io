@@ -10,6 +10,7 @@ published: true
 {{site.startslide}}
 ## Morquio syndrome
 {{site.endslide}}
+{{site.endvertical}}
 
 {{site.startvertical}}
 {{site.startslide}}
