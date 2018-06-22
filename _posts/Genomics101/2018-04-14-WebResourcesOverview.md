@@ -20,7 +20,7 @@ Essentials of web resources !
 
 #### Genetic testing
 
-* Genetic Testing Registry [GTR](https://www.ncbi.nlm.nih.gov/gtr/)
+* Genetic Testing Registry [GTR](https://www.ncbi.nlm.nih.gov/gtr/) - This website is unfortunately not maintained anymore.
 
 ### American College of Medical Genetics - Variant Classification
 
