@@ -9,10 +9,13 @@ published: true
 {{site.startvertical}}
 {{site.startslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide01.png"></img>
+
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide02.png"></img>
+
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide03.png"></img>
+
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide04.png"></img>
 {{site.nextslide}}
