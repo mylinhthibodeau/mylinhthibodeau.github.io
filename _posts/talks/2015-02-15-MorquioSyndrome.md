@@ -10,21 +10,36 @@ published: true
 {{site.startslide}}
 ## Morquio syndrome
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide01.png"></img>
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide02.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide03.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide04.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide05.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide06.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide07.png"></img>
+
 {{site.nextslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide08.png"></img>
+
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide09.png"></img>
 {{site.nextslide}}
