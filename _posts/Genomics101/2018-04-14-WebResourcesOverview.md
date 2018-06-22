@@ -9,8 +9,6 @@ comments: true
 share: true
 ---
 
-Essentials of web resources !
-
 ### Essentials - Websites
 
 #### Phenotype
