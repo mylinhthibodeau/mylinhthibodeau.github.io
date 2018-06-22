@@ -16,7 +16,11 @@ published: true
 {{site.startslide}}
 
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide01.png"></img>
-{{site.nextslide}}
+{{site.endslide}}
+{{site.endvertical}}
+
+{{site.startvertical}}
+{{site.startslide}}
 
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide02.png"></img>
 
