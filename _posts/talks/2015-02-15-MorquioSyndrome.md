@@ -53,5 +53,4 @@ published: true
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide21.png"></img>
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide22.png"></img>
-{{site.nextslide}}
-{{site.endvertical}}
+{{site.endslide}}
