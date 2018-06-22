@@ -87,10 +87,11 @@ published: true
 
 {{site.endslide}}
 
+{{site.startslide}}
+
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_Oct2015/Slide11.png"></img>
 
 {{site.endslide}}
-
 
 
 {{site.startslide}}
@@ -100,13 +101,11 @@ published: true
 {{site.endslide}}
 
 
-
 {{site.startslide}}
 
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_Oct2015/Slide13.png"></img>
 
 {{site.endslide}}
-
 
 
 {{site.startslide}}
