@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BriefReview
+title: Brief Review of Bioinformatics
 excerpt:
 categories: Bioinformatics
 tags: ["Bioinformatics", "Introduction", "Review", "Resources"]

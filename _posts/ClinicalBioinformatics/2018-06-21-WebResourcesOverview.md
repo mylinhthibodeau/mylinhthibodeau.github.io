@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Resources Overview
+title: Web Resources Overview for Clinical Bioinformatics
 excerpt:
 categories: ClinicalBioinformatics
 tags: ["Genomics", "Clinical Bioinformatics" , "Introduction", "Resources", "Web"]

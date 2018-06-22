@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Resources Overview
+title: Web Resources Overview for Genomics
 excerpt:
 categories: Genomics101
 tags: ["Genomics", "Introduction", "Resources", "Web"]

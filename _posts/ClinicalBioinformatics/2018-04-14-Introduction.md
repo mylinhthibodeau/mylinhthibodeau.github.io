@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: Introduction to Clinical Bioinformatics
 excerpt:
 categories: ClinicalBioinformatics
 tags: ["Clinical Bioinformatics", "Introduction", "Resources"]

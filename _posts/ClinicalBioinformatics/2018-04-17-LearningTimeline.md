@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LearningTimeline
+title: Learning Timeline for Clinical Bioinformatics
 excerpt:
 categories: ClinicalBioinformatics
 tags: ["Clinical Bioinformatics", "Introduction", "Resources", "Learning", "Time", "Timeline"]
