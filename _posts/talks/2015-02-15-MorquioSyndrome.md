@@ -7,8 +7,9 @@ published: true
 ---
 
 {{site.startvertical}}
-
 {{site.startslide}}
+## Morquio syndrome
+{{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide01.png"></img>
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide02.png"></img>
