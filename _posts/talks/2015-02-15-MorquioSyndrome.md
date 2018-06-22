@@ -8,12 +8,6 @@ published: true
 
 {{site.startvertical}}
 {{site.startslide}}
-## Morquio syndrome
-{{site.endslide}}
-{{site.endvertical}}
-
-{{site.startvertical}}
-{{site.startslide}}
 
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide01.png"></img>
 {{site.nextslide}}
@@ -74,6 +68,5 @@ published: true
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide21.png"></img>
 {{site.nextslide}}
 <img src="{{site.baseurl}}/images/talks/MorquioSyndrome_BriefPresentation_Oct2015/Slide22.png"></img>
-{{site.nextslide}}
 {{site.endslide}}
 {{site.endvertical}}
