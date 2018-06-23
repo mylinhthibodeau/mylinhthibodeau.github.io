@@ -1,6 +1,6 @@
 ---
 layout: presentation
-title: Clinically driven variant prioritization (Stark et al 2017) - Paper Presentation
+title: Clinically driven variant prioritization (Stark et al 2017) - Paper presentation
 theme: white
 categories: talks
 published: true
