@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Genomics101
+title: Bioinformatics For Clinicians
 locale: en_US
-description: "Clinical Genetics | Genomic Data Scientist | Research Enthusiast "
+description: "Clinical Genetics | Genomic Data Science | Bioinformatics | Research "
 logo: MLT_Logo_Only_NoFrame.jpg
 search: true
 url: https://mylinhthibodeau.github.io/
