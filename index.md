@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WELCOME TO MY PERSONAL WEBSITE 
+title: WELCOME TO MY PERSONAL WEBSITE
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
@@ -18,7 +18,7 @@ A lot of the material found in this blog is derived from my own personal opinion
 
 Regards,
 
-My Linh
+*My Linh Thibodeau*
 
 ### Recent posts
 

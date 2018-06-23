@@ -1,6 +1,6 @@
 ---
 layout: presentation
-title: Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer (Zhao et al 2017)
+title: Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer  (Zhao et al 2017) - Paper presentation
 theme: white
 categories: talks
 published: true
