@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Home
+title: WELCOME TO MY PERSONAL WEBSITE 
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
 
-## Welcome to my personal web page
 
 <div id="bg">
   <img src="images/N-of-1.png" alt="">
@@ -18,9 +17,10 @@ Since I have both medical genetics clinical and bioinformatics training, I would
 A lot of the material found in this blog is derived from my own personal opinion (N-of-1) and built on my journey as a trainee, but you can also find resources and I encourage you to leave comments and share your thoughts.
 
 Regards,
+
 My Linh
 
-### Recent posts 
+### Recent posts
 
 <ul class="post-list">
 {% for post in site.categories.Genomics101 %}
