@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WELCOME TO MY PERSONAL WEBSITE
+title: Welcome To My Personal Website
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
