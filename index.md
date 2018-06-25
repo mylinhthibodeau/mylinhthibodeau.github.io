@@ -10,11 +10,11 @@ search_omit: true
   <img src="images/N-of-1.png" alt="">
 </div>
 
-This website is still in its early stages, but I wanted to launch this blog as part of my career development endeavors !
+This website is still in its early stages. I want to launch this blog as a part of my career development endeavors !
 
-Since I have both medical genetics clinical and bioinformatics training, I would like to share my learning journey and some suggestions or ideas I have to bridge the gap between clinical and bioinformatics sciences.
+Since I have both medical genetics clinical and bioinformatics training, I would like to share my learning journey and contribute suggestions and ideas I have to bridge the gap between clinical and bioinformatics sciences.
 
-A lot of the material found in this blog is derived from my own personal opinion (N-of-1) and built on my journey as a trainee, but you can also find resources and I encourage you to leave comments and share your thoughts.
+A lot of the material found in this blog is derived from my own personal opinion (N-of-1) and built on my journey as a trainee.  I encourage you to leave comments and share your thoughts.
 
 Regards,
 
