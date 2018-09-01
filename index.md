@@ -14,11 +14,13 @@ This website is still in its early stages. I want to launch this blog as a part 
 
 Since I have both medical genetics clinical and bioinformatics training, I would like to share my learning journey and contribute suggestions and ideas I have to bridge the gap between clinical and bioinformatics sciences.
 
-A lot of the material found in this blog is derived from my own personal opinion (N-of-1) and built on my journey as a trainee.  I encourage you to leave comments and share your thoughts.
+A lot of the material found in this blog is derived from my own personal opinion (N-of-1) and built on my journey as a trainee. I encourage you to leave comments and share your thoughts.
 
 Regards,
 
 *My Linh Thibodeau*
+
+<a href="https://www.researchgate.net/profile/My_Linh_Thibodeau">My Linh Thibodeau on ResearchGate</a>
 
 ### Recent posts
 
