@@ -44,7 +44,7 @@ In summary, the columns indicate:
 
 **Step 1.** Go to [UCSC](https://genome.ucsc.edu/index.html) and click on custom track
 
-![ucsc_page](https://raw.githubusercontent.com/mylinhthibodeau/mylinhthibodeau.github.io/master/images/ucsc_page.png)
+![UCSC_page](https://raw.githubusercontent.com/mylinhthibodeau/mylinhthibodeau.github.io/master/images/UCSC_page.png)
 
 **Step 2.** Convert the coordinates of your CNV into BED format.
 
@@ -71,9 +71,11 @@ chr7    72744455  74142672  WilliamsSyndrome  0  +  72744455  74142672  0,255,0
 
 ![CompareCNV_UCSC_result](https://raw.githubusercontent.com/mylinhthibodeau/mylinhthibodeau.github.io/master/images/CompareCNV_UCSC_result.png)
 
-> This is especially useful when a report states that a clinical CNV "overlaps" a microdeletion/microduplication regions without specifying the extent of the overlap.
+As you can see, the patient CNV is slightly shifted to the left, but it includes all the OMIM disease genes of the Williams Beuren syndrome region.
 
-> It is also very useful wanting to add coordinates for regions which are recently published (e.g. reanalysis of microarray report).
+> This is especially useful when a report states that a CNV "overlaps" a microdeletion/microduplication region without specifying the extent of the overlap.
+
+> It is also very useful wanting to add coordinates for recently published genomic regions and for re-analyzing old microarray results.
 
 I hope this will help you in your practice :)
 
