@@ -28,7 +28,7 @@ We will compare two company gene panels with a list of genes that we want to inc
 
 **Step 2.** Establish your expert-reviewed list of genes
 
-Say I have my *personal list of genes to include from the literature* as follow: CATSAL, CATSHL, CHRNG, CHRND, CHRNA1,  DOK7, ECEL1, FBN2, GLE1, ERBB3, IRF6, LCCS3, MAGEL2, MYBPC1, MYH3, MYH8, PAFAHIBI, PIEZ02, PIP5KIC, RELN, RIPK4, RASPSN,  TARP, TNN12, TNNT3, TPM2, UBA1
+Say I have my personal list of genes to include from the literature as follow: CATSAL, CATSHL, CHRNG, CHRND, CHRNA1,  DOK7, ECEL1, FBN2, GLE1, ERBB3, IRF6, LCCS3, MAGEL2, MYBPC1, MYH3, MYH8, PAFAHIBI, PIEZ02, PIP5KIC, RELN, RIPK4, RASPSN,  TARP, TNN12, TNNT3, TPM2, UBA1
 
 **Step 2.** Go to comparator website
 
@@ -54,7 +54,7 @@ It should look like:
 
 ![Arthrogryposis_CompareLists](https://raw.githubusercontent.com/mylinhthibodeau/mylinhthibodeau.github.io/master/images/ArthrogryposisCompare_3lists.png).
 
-**Step 4.** Now click compare *et voilà!!*
+**Step 4.** Click compare *et voilà!!*
 
 Now, you can simply look and click on the Venn Diagram to explore the overlaps.
 
@@ -68,6 +68,6 @@ At the quick glance, I see that compare to my personal list of genes to include:
 
 > This is especially useful when customizing panels and identifying which genes are missing. For doing so, you just need to compare your personal list of genes with the company list of genes.
 
-I hope this little tip will help you save time :)
+I hope this will help you save time :)
 
 My Linh Thibodeau
