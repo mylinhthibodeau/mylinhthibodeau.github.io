@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-This post will teach you how to plot the genomic coordinates of a patient copy number variant (CNV) on the UCSC [genome browser](https://genome.ucsc.edu).
+Learn how to plot copy number variant (CNV) on the UCSC [genome browser](https://genome.ucsc.edu).
 
 ### Introduction
 
